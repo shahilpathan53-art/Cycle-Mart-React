@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "68bf28492685ab7ce3c66525"
+  },
+  "cycle_id": 101,
+  "model_name": "Sprint Voltage",
+  "brand": "Hero",
+  "type": "Mountain",
+  "color": "black"
+},
+{
+  "_id": {
+    "$oid": "68bf28c12685ab7ce3c66527"
+  },
+  "cycle_id": 102,
+  "model_name": "Bad Attitude",
+  "brand": "Firefox",
+  "type": "Roads",
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "68bf29362685ab7ce3c66529"
+  },
+  "cycle_id": 103,
+  "model_name": "RockRider",
+  "brand": "Btwin",
+  "type": "Mountain",
+  "color": "White"
+}]

@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "6901c6bfe037fd4f28260352"
+  },
+  "billId": "SB001",
+  "supplierName": "Hero Cycles Ltd",
+  "date": "2025-10-01",
+  "totalAmount": 15600
+},
+{
+  "_id": {
+    "$oid": "6901c6bfe037fd4f28260353"
+  },
+  "billId": "SB002",
+  "supplierName": "Atlas Industries",
+  "date": "2025-10-02",
+  "totalAmount": 18250
+},
+{
+  "_id": {
+    "$oid": "6901c6bfe037fd4f28260354"
+  },
+  "billId": "SB003",
+  "supplierName": "Firefox Bikes Pvt Ltd",
+  "date": "2025-10-03",
+  "totalAmount": 21400
+},
+{
+  "_id": {
+    "$oid": "6901c6bfe037fd4f28260355"
+  },
+  "billId": "SB004",
+  "supplierName": "Avon Cycles Ltd",
+  "date": "2025-10-04",
+  "totalAmount": 14350
+},
+{
+  "_id": {
+    "$oid": "6901c6bfe037fd4f28260356"
+  },
+  "billId": "SB005",
+  "supplierName": "Decathlon Suppliers",
+  "date": "2025-10-05",
+  "totalAmount": 19780
+},
+{
+  "_id": {
+    "$oid": "6901c6bfe037fd4f28260357"
+  },
+  "billId": "SB006",
+  "supplierName": "Ninety One Bikes Co",
+  "date": "2025-10-06",
+  "totalAmount": 16700
+},
+{
+  "_id": {
+    "$oid": "6901c6bfe037fd4f28260358"
+  },
+  "billId": "SB007",
+  "supplierName": "Trek Cycles India",
+  "date": "2025-10-07",
+  "totalAmount": 22500
+},
+{
+  "_id": {
+    "$oid": "6901c6bfe037fd4f28260359"
+  },
+  "billId": "SB008",
+  "supplierName": "Montra Suppliers",
+  "date": "2025-10-08",
+  "totalAmount": 18900
+},
+{
+  "_id": {
+    "$oid": "6901c6bfe037fd4f2826035a"
+  },
+  "billId": "SB009",
+  "supplierName": "BSA Motors",
+  "date": "2025-10-09",
+  "totalAmount": 20150
+},
+{
+  "_id": {
+    "$oid": "6901c6bfe037fd4f2826035b"
+  },
+  "billId": "SB010",
+  "supplierName": "Giant Cycles Co",
+  "date": "2025-10-10",
+  "totalAmount": 17200
+},
+{
+  "_id": {
+    "$oid": "690208894002c17aa6a3f6ae"
+  },
+  "billId": "SB011",
+  "supplierName": "SUFIYAN",
+  "date": {
+    "$date": "2025-05-08T00:00:00.000Z"
+  },
+  "totalAmount": 20500,
+  "createdAt": {
+    "$date": "2025-10-29T12:28:57.845Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6906d75a085a80dcda046424"
+  },
+  "billId": "SB011",
+  "supplierName": "SUFIYAN",
+  "date": {
+    "$date": "2025-05-08T00:00:00.000Z"
+  },
+  "totalAmount": 20500,
+  "createdAt": {
+    "$date": "2025-11-02T04:00:26.607Z"
+  }
+}]

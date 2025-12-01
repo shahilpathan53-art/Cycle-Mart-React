@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "68f3451784b134b0588bcd9b"
+  },
+  "userId": "U001",
+  "name": "Shahil Pathan",
+  "email": "shahil@example.com",
+  "role": "Admin",
+  "lastLogin": {
+    "$date": "2025-10-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f3451784b134b0588bcd9c"
+  },
+  "userId": "U002",
+  "name": "Aarav Mehta",
+  "email": "aarav@example.com",
+  "role": "Manager",
+  "lastLogin": {
+    "$date": "2025-10-09T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f3451784b134b0588bcd9d"
+  },
+  "userId": "U003",
+  "name": "Priya Sharma",
+  "email": "priya@example.com",
+  "role": "Sales Executive",
+  "lastLogin": {
+    "$date": "2025-10-08T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f3451784b134b0588bcd9e"
+  },
+  "userId": "U004",
+  "name": "Ravi Patel",
+  "email": "ravi@example.com",
+  "role": "Supplier",
+  "lastLogin": {
+    "$date": "2025-10-11T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f3451784b134b0588bcd9f"
+  },
+  "userId": "U005",
+  "name": "Neha Desai",
+  "email": "neha@example.com",
+  "role": "Admin",
+  "lastLogin": {
+    "$date": "2025-10-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f3451784b134b0588bcda0"
+  },
+  "userId": "U006",
+  "name": "Karan Singh",
+  "email": "karan@example.com",
+  "role": "Sales Executive",
+  "lastLogin": {
+    "$date": "2025-10-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f3451784b134b0588bcda1"
+  },
+  "userId": "U007",
+  "name": "Isha Verma",
+  "email": "isha@example.com",
+  "role": "Manager",
+  "lastLogin": {
+    "$date": "2025-10-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f3451784b134b0588bcda2"
+  },
+  "userId": "U008",
+  "name": "Rahul Joshi",
+  "email": "rahul@example.com",
+  "role": "Supplier",
+  "lastLogin": {
+    "$date": "2025-10-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f3451784b134b0588bcda3"
+  },
+  "userId": "U009",
+  "name": "Sneha Kapoor",
+  "email": "sneha@example.com",
+  "role": "Admin",
+  "lastLogin": {
+    "$date": "2025-10-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f3451784b134b0588bcda4"
+  },
+  "userId": "U010",
+  "name": "Vikram Yadav",
+  "email": "vikram@example.com",
+  "role": "Sales Executive",
+  "lastLogin": {
+    "$date": "2025-10-15T00:00:00.000Z"
+  }
+}]

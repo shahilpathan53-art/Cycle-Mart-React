@@ -1,0 +1,243 @@
+[{
+  "_id": {
+    "$oid": "68c5782a26bb9a39c6693d64"
+  },
+  "email": "user@cyclemart.com",
+  "password": "password123"
+},
+{
+  "_id": {
+    "$oid": "68c58836f3a9cba439b8a332"
+  },
+  "name": "haider shaikh",
+  "email": "haider@gmail.com",
+  "phone": "09328863073",
+  "password": "1111",
+  "createdAt": {
+    "$date": "2025-09-13T15:05:26.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a83595d"
+  },
+  "user_id": 1,
+  "name": "Shahil Pathan",
+  "email": "shahil@example.com",
+  "password": "shahil@123",
+  "created_at": "2025-09-14T10:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a83595e"
+  },
+  "user_id": 2,
+  "name": "Ayesha Khan",
+  "email": "ayesha2@example.com",
+  "password": "Ayesha@456",
+  "created_at": "2025-09-13T11:15:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a83595f"
+  },
+  "user_id": 3,
+  "name": "Rohan Mehta",
+  "email": "rohan3@example.com",
+  "password": "Rohan@789",
+  "created_at": "2025-09-12T09:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a835960"
+  },
+  "user_id": 4,
+  "name": "Sonal Patel",
+  "email": "sonal4@example.com",
+  "password": "Sonal@321",
+  "created_at": "2025-09-11T08:45:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a835961"
+  },
+  "user_id": 5,
+  "name": "Karan Sharma",
+  "email": "karan5@example.com",
+  "password": "Karan@654",
+  "created_at": "2025-09-10T12:20:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a835962"
+  },
+  "user_id": 6,
+  "name": "Neha Reddy",
+  "email": "neha6@example.com",
+  "password": "Neha@987",
+  "created_at": "2025-09-09T14:50:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a835963"
+  },
+  "user_id": 7,
+  "name": "Vikram Singh",
+  "email": "vikram7@example.com",
+  "password": "Vikram@111",
+  "created_at": "2025-09-08T16:05:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a835964"
+  },
+  "user_id": 8,
+  "name": "Pooja Desai",
+  "email": "pooja8@example.com",
+  "password": "Pooja@222",
+  "created_at": "2025-09-07T09:40:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a835965"
+  },
+  "user_id": 9,
+  "name": "Ritesh Kapoor",
+  "email": "ritesh9@example.com",
+  "password": "Ritesh@333",
+  "created_at": "2025-09-06T10:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a835966"
+  },
+  "user_id": 10,
+  "name": "Anjali Verma",
+  "email": "anjali10@example.com",
+  "password": "Anjali@444",
+  "created_at": "2025-09-05T11:50:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a835967"
+  },
+  "user_id": 11,
+  "name": "Siddharth Jain",
+  "email": "siddharth11@example.com",
+  "password": "Siddharth@555",
+  "created_at": "2025-09-04T13:15:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a835968"
+  },
+  "user_id": 12,
+  "name": "Meera Iyer",
+  "email": "meera12@example.com",
+  "password": "Meera@666",
+  "created_at": "2025-09-03T15:25:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a835969"
+  },
+  "user_id": 13,
+  "name": "Aditya Nair",
+  "email": "aditya13@example.com",
+  "password": "Aditya@777",
+  "created_at": "2025-09-02T17:10:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a83596a"
+  },
+  "user_id": 14,
+  "name": "Shruti Ghosh",
+  "email": "shruti14@example.com",
+  "password": "Shruti@888",
+  "created_at": "2025-09-01T18:45:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a83596b"
+  },
+  "user_id": 15,
+  "name": "Raghav Bhat",
+  "email": "raghav15@example.com",
+  "password": "Raghav@999",
+  "created_at": "2025-08-31T20:05:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a83596c"
+  },
+  "user_id": 16,
+  "name": "Tanya Malhotra",
+  "email": "tanya16@example.com",
+  "password": "Tanya@000",
+  "created_at": "2025-08-30T21:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a83596d"
+  },
+  "user_id": 17,
+  "name": "Vivek Choudhary",
+  "email": "vivek17@example.com",
+  "password": "Vivek@123",
+  "created_at": "2025-08-29T08:55:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a83596e"
+  },
+  "user_id": 18,
+  "name": "Isha Kapoor",
+  "email": "isha18@example.com",
+  "password": "Isha@456",
+  "created_at": "2025-08-28T10:20:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a83596f"
+  },
+  "user_id": 19,
+  "name": "Arjun Raina",
+  "email": "arjun19@example.com",
+  "password": "Arjun@789",
+  "created_at": "2025-08-27T12:40:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c6d2a1f4cadc4a835970"
+  },
+  "user_id": 20,
+  "name": "Simran Singh",
+  "email": "simran20@example.com",
+  "password": "Simran@321",
+  "created_at": "2025-08-26T14:05:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6cefb9c1310d47899783d"
+  },
+  "name": "rayyan shaikh",
+  "email": "rayyan@gmail.com",
+  "phone": "2568742360",
+  "password": "rayyan",
+  "createdAt": {
+    "$date": "2025-09-14T14:19:39.180Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7aded2f3874be77feb62e"
+  },
+  "name": "suffu",
+  "email": "suffu@gmail.com",
+  "phone": "1425368791",
+  "password": "123",
+  "createdAt": {
+    "$date": "2025-09-15T06:10:53.373Z"
+  }
+}]

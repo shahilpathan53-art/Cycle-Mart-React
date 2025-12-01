@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "68c42b9985597e6d305c78a2"
+  },
+  "name": "Road",
+  "brand": "HERCULES",
+  "price": 21000,
+  "imageUrl": "http://localhost:4000/img/a2.png"
+},
+{
+  "_id": {
+    "$oid": "68c42b9985597e6d305c78a3"
+  },
+  "name": "Hybrid Bike",
+  "brand": "BTWIN",
+  "price": 17000,
+  "imageUrl": "http://localhost:4000/img/a3.png"
+},
+{
+  "_id": {
+    "$oid": "68c42b9985597e6d305c78a4"
+  },
+  "name": "Electric Cycle",
+  "brand": "BSA",
+  "price": 25000,
+  "imageUrl": "http://localhost:4000/img/a4.png"
+},
+{
+  "_id": {
+    "$oid": "68c42b9985597e6d305c78a5"
+  },
+  "name": "Kids Cycle",
+  "brand": "Huffy",
+  "price": 8000,
+  "imageUrl": "http://localhost:4000/img/a5.png"
+},
+{
+  "_id": {
+    "$oid": "68d2a8d757f86885b847ab7c"
+  },
+  "name": "bsa",
+  "brand": "hero",
+  "price": 10000,
+  "imageUrl": "https://4.imimg.com/data4/MW/HE/MY-11415980/gents-cycle-500x500.jpg",
+  "created_at": {
+    "$date": "2025-09-23T14:04:07.442Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6908cb57f9fc13b29927edd5"
+  },
+  "name": "ROAD",
+  "brand": "FIREFOX",
+  "price": 18000,
+  "imageUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/cycle/l/n/j/viper-26-20-5-firefox-bikes-100-21-gear-original-imagtevnfpuncfzj.jpeg?q=70&crop=false",
+  "created_at": {
+    "$date": "2025-11-03T15:33:43.967Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6908cda5f9fc13b29927edd6"
+  },
+  "name": "GT Bicycles",
+  "brand": "BMX",
+  "price": 24000,
+  "imageUrl": "https://th.bing.com/th/id/R.7542f81b82785d925fa28ea990296273?rik=QSGbHrT3ET%2bqtA&riu=http%3a%2f%2fwww.bicycleretailer.com%2fsites%2fdefault%2ffiles%2fimages%2farticle%2fGT+Force+Carbon+Pro.jpg&ehk=a7jrwIXdGEYbE84ujgz4SvCWXvVJSTBlQvSMG4fzSL0%3d&risl=1&pid=ImgRaw&r=0",
+  "created_at": {
+    "$date": "2025-11-03T15:43:33.732Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6908d184f9fc13b29927edd7"
+  },
+  "name": "Marin Bikes bicycle",
+  "brand": "MTB",
+  "price": 23000,
+  "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.93US4B2r5AcBQEZzNlrZXgHaEk?rs=1&pid=ImgDetMain&o=7&rm=3",
+  "created_at": {
+    "$date": "2025-11-03T16:00:04.209Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690de8168610ab7e6c6be5ec"
+  },
+  "name": "diamondback bicycle",
+  "brand": "BMX",
+  "price": 30000,
+  "imageUrl": "https://files.bikeindex.org/uploads/Pu/450007/large_6D299212-64F7-41A7-9441-6C8367E7965A.jpeg",
+  "created_at": {
+    "$date": "2025-11-07T12:37:42.611Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690eb015f28155746c9ac841"
+  },
+  "name": "Surly bicycle",
+  "brand": "steel bikes",
+  "price": 25000,
+  "imageUrl": "https://www.sefiles.net/images/library/zoom/surly-preamble-flat-bar-bike-421525-11.jpg",
+  "created_at": {
+    "$date": "2025-11-08T02:51:01.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690eb080f28155746c9ac842"
+  },
+  "name": "Canon bicycle",
+  "brand": "German",
+  "price": 28000,
+  "imageUrl": "https://cdn.mos.cms.futurecdn.net/CmRKfFLkhyH5CFsXuob7mC.jpg",
+  "created_at": {
+    "$date": "2025-11-08T02:52:48.809Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690eb0ddf28155746c9ac843"
+  },
+  "name": "Jamis Bicycle",
+  "brand": "Best value ",
+  "price": 20000,
+  "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.kzMb2dhfwgpqtwMse0TrTwHaET?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+  "created_at": {
+    "$date": "2025-11-08T02:54:21.092Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690eb145f28155746c9ac844"
+  },
+  "name": "Kona bicycle",
+  "brand": "Versatile bikes",
+  "price": 24000,
+  "imageUrl": "https://149764339.v2.pressablecdn.com/wp-content/uploads/kona-process-24-kids-bike-630x330.jpg",
+  "created_at": {
+    "$date": "2025-11-08T02:56:05.643Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69230fb5a6586ec38074ba14"
+  },
+  "name": "Yeti cycle ",
+  "brand": "Mountain bikes",
+  "price": 23000,
+  "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.3yoCij6rXd7l4pIyrGWnfgHaE8?w=2560&h=1707&rs=1&pid=ImgDetMain&o=7&rm=3",
+  "created_at": {
+    "$date": "2025-11-23T13:44:21.161Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69231018a6586ec38074ba15"
+  },
+  "name": "Cube bikes",
+  "brand": "Hybrid Bikes",
+  "price": 26000,
+  "imageUrl": "https://file.cube.eu/azwesc1xfg346/thumbnail/8d/51/ea/1671590531/S_0_78944_679400_S_00_1920x1920.jpg",
+  "created_at": {
+    "$date": "2025-11-23T13:46:00.704Z"
+  }
+}]

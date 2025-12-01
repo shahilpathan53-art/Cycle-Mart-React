@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "6901c654e037fd4f28260346"
+  },
+  "billId": "CB001",
+  "customerName": "Rahul Sharma",
+  "date": "2025-10-01",
+  "totalAmount": 1250
+},
+{
+  "_id": {
+    "$oid": "6901c654e037fd4f28260347"
+  },
+  "billId": "CB002",
+  "customerName": "Priya Patel",
+  "date": "2025-10-02",
+  "totalAmount": 980
+},
+{
+  "_id": {
+    "$oid": "6901c654e037fd4f28260348"
+  },
+  "billId": "CB003",
+  "customerName": "Amit Verma",
+  "date": "2025-10-03",
+  "totalAmount": 1575
+},
+{
+  "_id": {
+    "$oid": "6901c654e037fd4f28260349"
+  },
+  "billId": "CB004",
+  "customerName": "Neha Singh",
+  "date": "2025-10-04",
+  "totalAmount": 2120
+},
+{
+  "_id": {
+    "$oid": "6901c654e037fd4f2826034a"
+  },
+  "billId": "CB005",
+  "customerName": "Rohit Mehta",
+  "date": "2025-10-05",
+  "totalAmount": 1780
+},
+{
+  "_id": {
+    "$oid": "6901c654e037fd4f2826034b"
+  },
+  "billId": "CB006",
+  "customerName": "Kiran Desai",
+  "date": "2025-10-06",
+  "totalAmount": 890
+},
+{
+  "_id": {
+    "$oid": "6901c654e037fd4f2826034c"
+  },
+  "billId": "CB007",
+  "customerName": "Sandeep Kumar",
+  "date": "2025-10-07",
+  "totalAmount": 2350
+},
+{
+  "_id": {
+    "$oid": "6901c654e037fd4f2826034d"
+  },
+  "billId": "CB008",
+  "customerName": "Anjali Nair",
+  "date": "2025-10-08",
+  "totalAmount": 1425
+},
+{
+  "_id": {
+    "$oid": "6901c654e037fd4f2826034e"
+  },
+  "billId": "CB009",
+  "customerName": "Vikas Gupta",
+  "date": "2025-10-09",
+  "totalAmount": 1995
+},
+{
+  "_id": {
+    "$oid": "6901c654e037fd4f2826034f"
+  },
+  "billId": "CB010",
+  "customerName": "Deepa Joshi",
+  "date": "2025-10-10",
+  "totalAmount": 1675
+},
+{
+  "_id": {
+    "$oid": "6902065a83481248d2419bc8"
+  },
+  "billId": "CB011",
+  "customerName": "HAIDER",
+  "date": {
+    "$date": "2025-07-14T00:00:00.000Z"
+  },
+  "totalAmount": 4500,
+  "createdAt": {
+    "$date": "2025-10-29T12:19:38.677Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69021ce082f040186cd35abe"
+  },
+  "billId": "BILL-670114",
+  "customerName": "HAIDER",
+  "date": {
+    "$date": "2025-07-14T00:00:00.000Z"
+  },
+  "totalAmount": 4500,
+  "createdAt": {
+    "$date": "2025-10-29T13:55:44.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690256f04d834301e2a73969"
+  },
+  "billId": "CB012",
+  "customerName": "sufiyan",
+  "date": {
+    "$date": "2025-07-25T00:00:00.000Z"
+  },
+  "totalAmount": 2300,
+  "createdAt": {
+    "$date": "2025-10-29T18:03:28.349Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690315f9d36748b5ec305eda"
+  },
+  "billId": "CB013",
+  "customerName": "sahid",
+  "date": {
+    "$date": "2025-03-06T00:00:00.000Z"
+  },
+  "totalAmount": 2500,
+  "createdAt": {
+    "$date": "2025-10-30T07:38:33.349Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6926cabb90b6ee921a499716"
+  },
+  "billId": "BILL-586134",
+  "customerName": "HAIDER",
+  "date": {
+    "$date": "2025-08-06T00:00:00.000Z"
+  },
+  "totalAmount": 25000,
+  "createdAt": {
+    "$date": "2025-11-26T09:39:07.349Z"
+  }
+}]
