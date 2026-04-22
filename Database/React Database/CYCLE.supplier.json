@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "68c6c76da1f4cadc4a835976"
+  },
+  "id": 1,
+  "company_name": "Cycle World Pvt Ltd",
+  "email": "cycle@gmail.com",
+  "password": "cycle123",
+  "createdAt": {
+    "$date": "2025-10-30T13:25:55.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c6c76da1f4cadc4a835977"
+  },
+  "id": 2,
+  "company_name": "Speedster Cycles",
+  "email": "info@speedster.com",
+  "password": "Speed@456",
+  "createdAt": {
+    "$date": "2025-10-30T13:25:55.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c6c76da1f4cadc4a835978"
+  },
+  "id": 3,
+  "company_name": "Urban Wheels",
+  "email": "support@urbanwheels.com",
+  "password": "Urban@789",
+  "createdAt": {
+    "$date": "2025-10-30T13:25:55.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c6c76da1f4cadc4a835979"
+  },
+  "id": 4,
+  "company_name": "Pro Bike Suppliers",
+  "email": "sales@probike.com",
+  "password": "Pro@321",
+  "createdAt": {
+    "$date": "2025-10-30T13:25:55.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c6c76da1f4cadc4a83597a"
+  },
+  "id": 5,
+  "company_name": "Velocity Cycles",
+  "email": "contact@velocity.com",
+  "password": "Vel@654",
+  "createdAt": {
+    "$date": "2025-10-30T13:25:55.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c6c76da1f4cadc4a83597b"
+  },
+  "id": 6,
+  "company_name": "Eco Rides Pvt Ltd",
+  "email": "info@ecorides.com",
+  "password": "Eco@987",
+  "createdAt": {
+    "$date": "2025-10-30T13:25:55.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c6c76da1f4cadc4a83597c"
+  },
+  "id": 7,
+  "company_name": "Mountain Gear Co",
+  "email": "support@mountaingear.com",
+  "password": "Mount@111",
+  "createdAt": {
+    "$date": "2025-10-30T13:25:55.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c6c76da1f4cadc4a83597d"
+  },
+  "id": 8,
+  "company_name": "Urban Riders",
+  "email": "sales@urbanriders.com",
+  "password": "Ride@222",
+  "createdAt": {
+    "$date": "2025-10-30T13:25:55.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c6c76da1f4cadc4a83597e"
+  },
+  "id": 9,
+  "company_name": "Cyclotech Solutions",
+  "email": "contact@cyclotech.com",
+  "password": "Tech@333",
+  "createdAt": {
+    "$date": "2025-10-30T13:25:55.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c6c76da1f4cadc4a83597f"
+  },
+  "id": 10,
+  "company_name": "NextGen Bikes",
+  "email": "info@nextgenbikes.com",
+  "password": "Next@444",
+  "createdAt": {
+    "$date": "2025-10-30T13:25:55.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c7af8d8b663c9e1f0ff664"
+  },
+  "id": 11,
+  "company_name": "Super Cycles",
+  "email": "super@gmail.com",
+  "password": "cycle123",
+  "createdAt": {
+    "$date": "2025-10-30T13:25:55.892Z"
+  }
+}]

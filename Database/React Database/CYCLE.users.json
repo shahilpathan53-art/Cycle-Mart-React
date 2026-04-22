@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "68bf237d3abfab7272303062"
+  },
+  "name": "Haider Shaikh",
+  "email": "haider@example.com",
+  "password": "hashed_password",
+  "phone": "9876543210",
+  "address": "Mumbai, India",
+  "createdAt": {
+    "$date": "2025-09-08T18:42:05.743Z"
+  }
+}]

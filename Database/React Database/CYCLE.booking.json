@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "68c6c844a1f4cadc4a835988"
+  },
+  "order_id": 1,
+  "user_id": 3,
+  "address_id": 101,
+  "status": "Pending",
+  "subtotal": 1500,
+  "shipping": 100,
+  "payment_status": "Unpaid",
+  "created_at": "2025-09-14T09:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c844a1f4cadc4a835989"
+  },
+  "order_id": 2,
+  "user_id": 7,
+  "address_id": 102,
+  "status": "Shipped",
+  "subtotal": 2500,
+  "shipping": 150,
+  "payment_status": "Paid",
+  "created_at": "2025-09-13T11:15:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c844a1f4cadc4a83598a"
+  },
+  "order_id": 3,
+  "user_id": 1,
+  "address_id": 103,
+  "status": "Delivered",
+  "subtotal": 3200,
+  "shipping": 120,
+  "payment_status": "Paid",
+  "created_at": "2025-09-12T14:50:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c844a1f4cadc4a83598b"
+  },
+  "order_id": 4,
+  "user_id": 5,
+  "address_id": 104,
+  "status": "Cancelled",
+  "subtotal": 1800,
+  "shipping": 80,
+  "payment_status": "Refunded",
+  "created_at": "2025-09-11T16:05:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c844a1f4cadc4a83598c"
+  },
+  "order_id": 5,
+  "user_id": 2,
+  "address_id": 105,
+  "status": "Pending",
+  "subtotal": 2200,
+  "shipping": 100,
+  "payment_status": "Unpaid",
+  "created_at": "2025-09-10T09:40:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c844a1f4cadc4a83598d"
+  },
+  "order_id": 6,
+  "user_id": 4,
+  "address_id": 106,
+  "status": "Shipped",
+  "subtotal": 2750,
+  "shipping": 150,
+  "payment_status": "Paid",
+  "created_at": "2025-09-09T10:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c844a1f4cadc4a83598e"
+  },
+  "order_id": 7,
+  "user_id": 6,
+  "address_id": 107,
+  "status": "Delivered",
+  "subtotal": 3000,
+  "shipping": 120,
+  "payment_status": "Paid",
+  "created_at": "2025-09-08T11:50:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c844a1f4cadc4a83598f"
+  },
+  "order_id": 8,
+  "user_id": 8,
+  "address_id": 108,
+  "status": "Pending",
+  "subtotal": 2000,
+  "shipping": 100,
+  "payment_status": "Unpaid",
+  "created_at": "2025-09-07T13:15:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c844a1f4cadc4a835990"
+  },
+  "order_id": 9,
+  "user_id": 9,
+  "address_id": 109,
+  "status": "Shipped",
+  "subtotal": 3500,
+  "shipping": 150,
+  "payment_status": "Paid",
+  "created_at": "2025-09-06T15:25:00Z"
+},
+{
+  "_id": {
+    "$oid": "68c6c844a1f4cadc4a835991"
+  },
+  "order_id": 10,
+  "user_id": 10,
+  "address_id": 110,
+  "status": "Delivered",
+  "subtotal": 4000,
+  "shipping": 200,
+  "payment_status": "Paid",
+  "created_at": "2025-09-05T17:10:00Z"
+}]
